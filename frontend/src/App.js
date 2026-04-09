@@ -16,7 +16,7 @@ function App() {
     setLoading(true);
 
     try {
-      const res = await axios.post("http://localhost:5000/check", { url });
+      const res = await axios.post("https://website-change-detector-sygg.onrender.com/check", { url });
 
       setResult(res.data.message);
       setType(res.data.type);
