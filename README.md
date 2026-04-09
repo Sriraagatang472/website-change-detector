@@ -23,9 +23,9 @@ Previous and current versions are compared
 Differences are highlighted using diff algorithm
 Notifications are triggered when changes are detected
 
-Live Demo
-
-
+. Live Demo Links:
+  Backend (render) - https://website-change-detector-sygg.onrender.com/
+  Frontend (vercel) - https://website-change-detector-ny3mq6v7e-2420030472-3516s-projects.vercel.app/
 
 Future Improvements
 Store data in database (MongoDB)
@@ -35,5 +35,4 @@ User authentication
 
 
 Conclusion
-
 This project automates website monitoring, reducing manual effort and providing real-time insights into content changes.
